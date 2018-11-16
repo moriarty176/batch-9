@@ -2,6 +2,8 @@ package day_3_custom_classes;
 
 import java.util.Random;
 
+import day_4_inheritence.Toyota;
+
 public class User {
 
 	public static void generateUsername(String name) {
